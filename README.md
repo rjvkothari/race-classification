@@ -1,3 +1,4 @@
+On running the notebook created by the authors, we can clearly understand the bias in dialect within a tweet. African-American English seems to have a higher percentage of hate speech detection compared to White American English
 ![name](https://github.com/rjvkothari/race-classification/blob/main/AAE%20Prediction.png)
 ![name](https://github.com/rjvkothari/race-classification/blob/main/WAE%20Prediction.png)
 
