@@ -1,3 +1,6 @@
+![name](https://github.com/rjvkothari/race-classification/blob/main/AAE%20Prediction.png)
+![name](https://github.com/rjvkothari/race-classification/blob/main/WAE%20Prediction.png)
+
 This repository contains the learned demographic model and script to predict demographic proportions using the model from the paper "Demographic Dialectal Variation in Social Media: A Case Study of African-American English" by Su Lin Blodgett, Lisa Green, and Brendan O'Connor, EMNLP 2016.
 
 The demographic model's full vocabulary and count tables (averaged over the last 50 Gibbs sampling iterations) are in `model/vocab.txt` and `model/model_count_table.txt`, respectively. Demographic predictions for a tweet can be calculated by loading the model with 
